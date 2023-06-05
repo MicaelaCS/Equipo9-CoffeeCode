@@ -1,0 +1,103 @@
+{
+	"teamNumber": 9,
+	"name": "CoffeCode",
+	"countedUsers": 15,
+	"users": [
+		{
+			"name": "Agustín",
+			"lastname": "Romero",
+			"country": "Argentina",
+			"discord": "Aguuss159#6955",
+			"github": "Nitsuga159",
+			"email": "agusromero0815@gmail.com"
+		},
+		{
+			"name": "Nicolás",
+			"lastname": "Alarcón",
+			"country": "Argentina",
+			"discord": "niconicoalarcon#5549",
+			"github": "niconicoalarcon",
+			"email": "escniconicoalarcon@gmail.com"
+		},
+		{
+			"name": "Luis",
+			"lastname": "Zambrano",
+			"country": "Ecuador",
+			"discord": "Lucho#5338",
+			"github": "lazg12",
+			"email": "lazg12@gmail.com"
+		},
+		{
+			"name": "Cristian",
+			"lastname": "Rodriguez",
+			"country": "España",
+			"discord": "cristianrg#4097",
+			"github": null,
+			"email": "cristianrodrig149@gmail.com"
+		},
+		{
+			"name": "Fabián",
+			"lastname": "Hernández",
+			"country": "Colombia",
+			"discord": "Fabian_hernandez#0098",
+			"github": "ravenfahs",
+			"email": "ravenfahs6@gmail.com"
+		},
+		{
+			"name": "Alexis",
+			"lastname": "Huaman",
+			"country": "Perú",
+			"discord": "AlexisHuaman#1390",
+			"github": null,
+			"email": "alexisdevper@gmail.com"
+		},
+		{
+			"name": "Alejandro",
+			"lastname": "Fernández",
+			"country": "Argentina",
+			"discord": "AlejandroFernandez#8110",
+			"github": "caf00",
+			"email": "cesar.alejandro.fernandez.7@gmail.com"
+		},
+		{
+			"name": "Iván",
+			"lastname": "De La Fuente",
+			"country": "Argentina",
+			"discord": "ivandlf#7546",
+			"github": "ivandlf",
+			"email": "iv.andelf@gmail.com"
+		},
+		{
+			"name": "Gabriel",
+			"lastname": "Mancilla",
+			"country": "Colombia",
+			"discord": "Gabriel Mancilla Ducuara#0276",
+			"github": "gaboducuara.10",
+			"email": "gabrielmancilladucuara@gmail.com"
+		},
+		{
+			"name": "Edwin",
+			"lastname": "Villanueva",
+			"country": "Argentina",
+			"discord": "Edwin Villanueva#7713",
+			"github": "Edwin-Villanueva",
+			"email": "edwinv.dev92@gmail.com"
+		},
+		{
+			"name": "Micaela",
+			"lastname": "Capatto",
+			"country": "Argentina",
+			"discord": "micaelacapatto#1014",
+			"github": "MicaelaCS",
+			"email": "micaelakikicapatto@gmail.com"
+		},
+		{
+			"name": "Victor",
+			"lastname": "Agudelo",
+			"country": "Colombia",
+			"discord": "Azazel#8629",
+			"github": "VictorDW",
+			"email": "viactur11@gmail.com"
+		}
+	]
+}
